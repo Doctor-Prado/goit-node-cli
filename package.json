@@ -1,0 +1,24 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doctor-Prado/goit-node-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Doctor-Prado/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/Doctor-Prado/goit-node-cli#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
